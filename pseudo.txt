@@ -1,0 +1,33 @@
+SCENARIO 1
+ask user "enter any amount of positive numbers and end with 0"
+if user input = 0 move on or else ask for next input
+check user inputs and return largest number
+
+SCENARIO 2
+Ask user "Enter first name"
+store user input as variable first_name
+print "(variable first_name) Hello, World"
+
+SCENARIO 3
+check if input = integer
+if integer store to variable numbers
+add amount of all numbers stored in variable numbers
+divide total by number of variables in variable numbers
+return average
+
+SCENARIO 4
+read grocery list
+store grocery list as variable products
+if variable products is bought remove from list
+sort variable products alphabetically
+print grocery list
+
+SCENARIO 5
+read X and store as X
+read Y and store as Y
+add X and Y and store result as S
+divide S by 2 and store as A
+multiply X by Y and store as P
+write S, A, P
+
+
